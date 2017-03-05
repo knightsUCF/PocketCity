@@ -10,6 +10,10 @@ The player is given different ways to play and win the game. Here are a few ways
 - gang warfare
 - political influence
 - civic / social points - good city building
+  - research
+  - hospital good ratio 
+  - restaurant ratio
+  - good living ratios 
 - ... ? 
 
 [Tamagotchi] Pets have a Hunger meter, Happy meter, Bracelet meter and Discipline meter to determine how healthy and well behaved the pet is.
