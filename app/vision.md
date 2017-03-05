@@ -36,6 +36,7 @@ CHARACTER
 - characters act as rpg characters, meaning different characters excel at different abilities 
 - in a team effort, one player can be the major, another player can be the entrepreneur
 - team play can strategize between character abilities 
+- as character level up they unlock new abilities 
 
 MAP
 
