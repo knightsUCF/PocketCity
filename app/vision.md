@@ -20,7 +20,7 @@ E) Quality of living meter
 
 BUILDINGS
 
-- allow user to pick color buildings he builds
+- allow the user to pick the colors of the buildings he builds
 - display stats under each building in scroll view picker
 
 
