@@ -19,6 +19,11 @@ D) Average age (if not enough inhabitants say not enoughd data: attract more inh
 E) Quality of living meter
 
 
+INHABITANTS
+
+- 100 inhabitants max per apartment building
+- inhabitants will move into aparment buildings when there are jobs created and grocery stores, department stores, a threshold number for each new wave of inhabitants
+
 COMPETITON 
 
 Earn a penalty for competition 
