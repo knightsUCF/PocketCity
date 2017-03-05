@@ -18,6 +18,11 @@ D) Average age (if not enough inhabitants say not enoughd data: attract more inh
 
 E) Quality of living meter
 
+BUILDINGS
+
+- allow user to pick color buildings he builds
+- display stats under each building in scroll view picker
+
 
 INHABITANTS
 
