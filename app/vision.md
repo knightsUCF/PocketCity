@@ -56,6 +56,15 @@ MAP
 - clouds and birds and music to set the initial mood
 - trees 
 
+BUILD
+
+- RTS style building
+- timer shows how much time lapsed, look up open source rts for ways 
+- special buildings and arrangmenets of buildings unlock characters
+- capital to build
+- capital is earned by inhabitants
+- more aparment buildings + houses = more inhabitants = more capital = more building ability 
+
 BUILDINGS
 
 - allow the user to pick the colors of the buildings he builds
