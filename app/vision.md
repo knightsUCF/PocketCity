@@ -14,7 +14,7 @@ B) Satisfaction meter
 
 C) Health meter
 
-D) Average age
+D) Average age (if not enough inhabitants say not enoughd data: attract more inhabitants)
 
 E) Quality of living meter
 
