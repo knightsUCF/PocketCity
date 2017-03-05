@@ -14,7 +14,10 @@ B) Satisfaction meter
 
 C) Health meter
 
-D) 
+D) Average age
+
+E) Quality of living meter
+
 
 COMPETITON 
 
