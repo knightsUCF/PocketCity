@@ -23,7 +23,7 @@ The player is given different ways to play and win the game. Here are a few ways
 
 [Tamagotchi] Pets have a Hunger meter, Happy meter, Bracelet meter and Discipline meter to determine how healthy and well behaved the pet is.
 
-Likewise for pocket cities: 
+<h4>Likewise for Pocket Cities:</h4>
 
 <b>
 A) Hunger meter
