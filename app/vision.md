@@ -31,6 +31,12 @@ D) Average age (if not enough inhabitants say not enough data: attract more inha
 
 E) Quality of living meter
 
+CREATE NEW CITY 
+
+- choose city name
+- choose map (future option)
+
+
 CHARACTER
 
 - choose starting character
