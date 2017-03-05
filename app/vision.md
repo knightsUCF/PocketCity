@@ -45,10 +45,14 @@ INHABITANTS
 
 COMPETITON 
 
-Earn a penalty for competition 
+- Earn a penalty for competition 
 
 MONOPOLY
 
 Construct buildings in close proximity and earn a bonus
+
+GANGS 
+
+- can wage turf warfare 
 
 
