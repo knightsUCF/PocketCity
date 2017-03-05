@@ -1,7 +1,7 @@
 POCKET CITIES
 
 
-Pocket Cities is a real time strategy game mixed with Tamagotchi. In Pocket Cities you start building a city from scratch.
+Pocket Cities is a real time strategy game mixed with rpg elements and Tamagotchi. In Pocket Cities you start building a city from scratch.
 You start building in blackness and slowly expand. 
 
 [Tamagotchi] Pets have a Hunger meter, Happy meter, Bracelet meter and Discipline meter to determine how healthy and well behaved the pet is.
@@ -17,6 +17,13 @@ C) Health meter
 D) Average age (if not enough inhabitants say not enoughd data: attract more inhabitants)
 
 E) Quality of living meter
+
+CHARACTER
+
+- player can choose and earn new characters
+- characters act as rpg characters, meaning different characters excel at different abilities 
+- in a team effort, one player can be the major, another player can be the entrepreneur
+- team play can strategize between character abilities 
 
 MAP
 
