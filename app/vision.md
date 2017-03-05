@@ -33,13 +33,13 @@ D) Average age (if not enough inhabitants say not enough data: attract more inha
 
 E) Quality of living meter
 
-<H2>CREATE NEW CITY</H2>
+<H3>CREATE NEW CITY</H2>
 
 - choose city name
 - choose map (future option)
 
 
-<H2>CHARACTER</H1>
+<H3>CHARACTER</H1>
 
 - choose starting character
 - some characters cannot be chosen in the beginning, for example you cannot start the game with the major 
@@ -49,14 +49,14 @@ E) Quality of living meter
 - team play can strategize between character abilities 
 - as character level up they unlock new abilities 
 
-MAP
+<H3>MAP
 
 - start with sexy black canvas and white thin grid outline
 - turn on / turn off grid button
 - clouds and birds and music to set the initial mood
 - trees 
 
-<H2>BUILD</H2>
+<H3>BUILD</H3>
 
 - RTS style building
 - timer shows how much time lapsed, look up open source rts for ways 
@@ -65,30 +65,30 @@ MAP
 - capital is earned by inhabitants
 - more aparment buildings + houses = more inhabitants = more capital = more building ability 
 
-<H2>BUILDINGS</H2>
+<H3>BUILDINGS</H3>
 
 - allow the user to pick the colors of the buildings he builds
 - display stats under each building in scroll view picker
 
 
-<H2>INHABITANTS</H2>
+<H3>INHABITANTS</H3>
 
 - 100 inhabitants max per apartment building
 - inhabitants will move into aparment buildings when there are jobs created and grocery stores, department stores, a threshold number for each new wave of inhabitants
 
-<H2>COMPETITON</H2>
+<H3>COMPETITON</H3>
 
 - Earn a penalty for competition 
 
-<H2>MONOPOLY</H2>
+<H3>MONOPOLY</H3>
 
 Construct buildings in close proximity and earn a bonus
 
-<H2>GANGS</H2>
+<H3>GANGS</H3>
 
 - can wage turf warfare 
 
-<H2>MULTIPLAYER</H2>
+<H3>MULTIPLAYER</H3>
 
 - multiplayer on the net established
 - play huge multiplayer games 
