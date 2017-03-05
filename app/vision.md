@@ -9,8 +9,11 @@ You start building in blackness and slowly expand.
 Likewise for pocket cities: 
 
 A) Hunger meter
+
 B) Satisfaction meter
+
 C) Health meter
+
 D) 
 
 COMPETITON 
