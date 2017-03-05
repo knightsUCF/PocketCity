@@ -18,6 +18,13 @@ D) Average age (if not enough inhabitants say not enoughd data: attract more inh
 
 E) Quality of living meter
 
+MAP
+
+- start with sexy black canvas and white thin grid outline
+- turn on / turn off grid button
+- clouds and birds and music to set the initial mood
+- trees 
+
 BUILDINGS
 
 - allow the user to pick the colors of the buildings he builds
@@ -36,3 +43,5 @@ Earn a penalty for competition
 MONOPOLY
 
 Construct buildings in close proximity and earn a bonus
+
+
