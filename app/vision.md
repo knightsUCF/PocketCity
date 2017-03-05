@@ -1,4 +1,4 @@
-POCKET CITIES 1 (2-D)
+<H1> POCKET CITIES 1 (2-D) </H1>
 
 POCKET CITIES 2 (3-D)
 
@@ -33,13 +33,13 @@ D) Average age (if not enough inhabitants say not enough data: attract more inha
 
 E) Quality of living meter
 
-CREATE NEW CITY 
+<H1>CREATE NEW CITY</H1> 
 
 - choose city name
 - choose map (future option)
 
 
-CHARACTER
+<H1>CHARACTER</H1>
 
 - choose starting character
 - some characters cannot be chosen in the beginning, for example you cannot start the game with the major 
@@ -56,7 +56,7 @@ MAP
 - clouds and birds and music to set the initial mood
 - trees 
 
-BUILD
+<H1>BUILD</H1>
 
 - RTS style building
 - timer shows how much time lapsed, look up open source rts for ways 
@@ -65,30 +65,30 @@ BUILD
 - capital is earned by inhabitants
 - more aparment buildings + houses = more inhabitants = more capital = more building ability 
 
-BUILDINGS
+<H1>BUILDINGS</H1>
 
 - allow the user to pick the colors of the buildings he builds
 - display stats under each building in scroll view picker
 
 
-INHABITANTS
+<H1>INHABITANTS</H1>
 
 - 100 inhabitants max per apartment building
 - inhabitants will move into aparment buildings when there are jobs created and grocery stores, department stores, a threshold number for each new wave of inhabitants
 
-COMPETITON 
+<H1>COMPETITON</H1>
 
 - Earn a penalty for competition 
 
-MONOPOLY
+<H1>MONOPOLY</H1>
 
 Construct buildings in close proximity and earn a bonus
 
-GANGS 
+<H1>GANGS</H1> 
 
 - can wage turf warfare 
 
-MULTIPLAYER
+<H1>MULTIPLAYER</H1>
 
 - multiplayer on the net established
 - play huge multiplayer games 
