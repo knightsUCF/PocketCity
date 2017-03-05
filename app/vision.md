@@ -68,4 +68,9 @@ GANGS
 
 - can wage turf warfare 
 
+MULTIPLAYER
+
+- multiplayer on the net established
+- play huge multiplayer games 
+
 
