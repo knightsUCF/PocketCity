@@ -33,13 +33,13 @@ D) Average age (if not enough inhabitants say not enough data: attract more inha
 
 E) Quality of living meter
 
-<H1>CREATE NEW CITY</H1> 
+<H2>CREATE NEW CITY</H2>
 
 - choose city name
 - choose map (future option)
 
 
-<H1>CHARACTER</H1>
+<H2>CHARACTER</H1>
 
 - choose starting character
 - some characters cannot be chosen in the beginning, for example you cannot start the game with the major 
@@ -56,7 +56,7 @@ MAP
 - clouds and birds and music to set the initial mood
 - trees 
 
-<H1>BUILD</H1>
+<H2>BUILD</H2>
 
 - RTS style building
 - timer shows how much time lapsed, look up open source rts for ways 
@@ -65,30 +65,30 @@ MAP
 - capital is earned by inhabitants
 - more aparment buildings + houses = more inhabitants = more capital = more building ability 
 
-<H1>BUILDINGS</H1>
+<H2>BUILDINGS</H2>
 
 - allow the user to pick the colors of the buildings he builds
 - display stats under each building in scroll view picker
 
 
-<H1>INHABITANTS</H1>
+<H2>INHABITANTS</H2>
 
 - 100 inhabitants max per apartment building
 - inhabitants will move into aparment buildings when there are jobs created and grocery stores, department stores, a threshold number for each new wave of inhabitants
 
-<H1>COMPETITON</H1>
+<H2>COMPETITON</H2>
 
 - Earn a penalty for competition 
 
-<H1>MONOPOLY</H1>
+<H2>MONOPOLY</H2>
 
 Construct buildings in close proximity and earn a bonus
 
-<H1>GANGS</H1> 
+<H2>GANGS</H2>
 
 - can wage turf warfare 
 
-<H1>MULTIPLAYER</H1>
+<H2>MULTIPLAYER</H2>
 
 - multiplayer on the net established
 - play huge multiplayer games 
