@@ -33,6 +33,8 @@ E) Quality of living meter
 
 CHARACTER
 
+- choose starting character
+- some characters cannot be chosen in the beginning, for example you cannot start the game with the major 
 - player can choose and earn new characters
 - characters act as rpg characters, meaning different characters excel at different abilities 
 - in a team effort, one player can be the major, another player can be the entrepreneur
